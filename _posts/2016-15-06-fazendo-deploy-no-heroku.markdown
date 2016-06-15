@@ -11,9 +11,7 @@ image:
 
 Como fazer deploy de Apps para o Heroku, para testar suas apps
 
-Post traduzido e adaptado do blog: [Christian Haschek](https://blog.haschek.at/post/fb64fa)
-
-Uma das coisas que mais me fascina no tema Internet das Coisas, é o poder combinar e utilizar um software que controla um hardware. Nesta experiência utilizaremos um Raspberry para criar um sistema de alarme para monitorar a porta de sua casa ou quarto de uma forma bem interessante.
+Heroku é uma plataforma de serviço em nuvem (PaaS) suportando várias linguagens de programação. Heroku é de propriedade da Salesforce.com . Heroku, uma das primeiras plataformas de nuvem , já está em desenvolvimento desde junho de 2007, quando suportava apenas a linguagem de programação Ruby , mas, desde então, adicionou suporte para Java , Node.js , Scala , Clojure e Python e PHP. O sistema operacional de base é Debian ou, no mais recente, o Debian-based Ubuntu.
 
 Bem sem mais delongas, vamos ao que interessa.
 
