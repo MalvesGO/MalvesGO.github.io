@@ -61,10 +61,10 @@ var gpio = require('rpi-gpio');
 var email   = require("emailjs/email");
 var pinoPorta = 7; 
 var server  = email.server.connect({
-                user:    "your.username",
-                password:"YourPassword",
-                host:    "smtp.gmail.com",
-                ssl: true});
+    user:    "your.username",
+    password:"YourPassword",
+    host:    "smtp.gmail.com",
+    ssl: true});
 
 var ultimoStatus = 1;
 
