@@ -22,11 +22,21 @@ Heroku é uma plataforma de serviço em nuvem (PaaS) suportando várias linguage
 * Uma conta no Heroku (mais que necessário).
 * Ter o Heroku toolbelt ou a gem Heroku instalado.
 
-# Montagem do cirquito
+Como sou adepto do software livre estou escrevendo esse tutorial utilizando o Ubuntu, porém você pode escolher o sistema operacional de sua escolha.
 
-<img class="center-block" src="https://www.pictshare.net/thumbs/800x600_95c6149e18.jpg">
+Para saber se o Heroku está funcionando Ok, abra um terminal e digite:
 
-# Passo 2: O sensor reed switch
+{% highlight javascript %}
+heroku –version
+{% endhighlight %}
+
+
+
+
+
+
+
+
 
 O sensor reed switch é um componente essencial para nosso projeto, devido o mesmo mudar o seu campo magnético quando sofre uma interferência de um íma. Então caso a porta feche o sensor irá detectar o status e enviar para nosso servidor Nodejs rodando na Raspberry.
 
