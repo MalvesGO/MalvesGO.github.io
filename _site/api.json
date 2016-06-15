@@ -3,7 +3,7 @@
     
         {
             "title": "Minha porta envia email",
-            "link": "http://localhost:4000/minha-porta-envia-email/",
+            "link": "http://malvesgo.github.io/minha-porta-envia-email/",
             "date": "3 November 2015",
             "tags": "['nodejs','raspberry',]"
         }
@@ -12,7 +12,7 @@
     
         ,{
             "title": "Como criei meu blog com Jekyll",
-            "link": "http://localhost:4000/criando-blog-com-jekyll/",
+            "link": "http://malvesgo.github.io/criando-blog-com-jekyll/",
             "date": "3 November 2015",
             "tags": "['jekyll',]"
         }
@@ -21,7 +21,7 @@
     
         ,{
             "title": "Introdução ao MongoDB",
-            "link": "http://localhost:4000/introducao-mongodb/",
+            "link": "http://malvesgo.github.io/introducao-mongodb/",
             "date": "3 November 2015",
             "tags": "['mongodb',]"
         }

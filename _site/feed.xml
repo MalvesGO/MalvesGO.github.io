@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">MalvesGO</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-12-06T23:10:18-02:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://malvesgo.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://malvesgo.github.io" />
+<updated>2016-06-15T13:19:11-03:00</updated>
+<id>http://malvesgo.github.io/</id>
 <author>
   <name>Marcelo Alves</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://malvesgo.github.io/</uri>
   <email>marceloalves_ac@hotmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Minha porta envia email]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/minha-porta-envia-email/" />
-  <id>http://localhost:4000/minha-porta-envia-email</id>
+ <link rel="alternate" type="text/html" href="http://malvesgo.github.io/minha-porta-envia-email/" />
+  <id>http://malvesgo.github.io/minha-porta-envia-email</id>
   <published>2015-11-03T17:38:24-02:00</published>
   <updated>2015-11-03T17:38:24-02:00</updated>
   <author>
     <name>Marcelo Alves</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://malvesgo.github.io</uri>
     <email>marceloalves_ac@hotmail.com</email>
   </author>
   <content type="html">
@@ -134,20 +134,20 @@
 &lt;p&gt;Até a próxima&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/minha-porta-envia-email/&quot;&gt;Minha porta envia email&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://localhost:4000&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://malvesgo.github.io/minha-porta-envia-email/&quot;&gt;Minha porta envia email&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://malvesgo.github.io&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Como criei meu blog com Jekyll]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/criando-blog-com-jekyll/" />
-  <id>http://localhost:4000/criando-blog-com-jekyll</id>
+ <link rel="alternate" type="text/html" href="http://malvesgo.github.io/criando-blog-com-jekyll/" />
+  <id>http://malvesgo.github.io/criando-blog-com-jekyll</id>
   <published>2015-11-03T10:00:00-02:00</published>
   <updated>2015-11-03T10:00:00-02:00</updated>
   <author>
     <name>Marcelo Alves</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://malvesgo.github.io</uri>
     <email>marceloalves_ac@hotmail.com</email>
   </author>
   <content type="html">
@@ -227,20 +227,20 @@ www.nome-usuario.github.io
 &lt;p&gt;Até a próxima&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/criando-blog-com-jekyll/&quot;&gt;Como criei meu blog com Jekyll&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://localhost:4000&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://malvesgo.github.io/criando-blog-com-jekyll/&quot;&gt;Como criei meu blog com Jekyll&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://malvesgo.github.io&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Introdução ao MongoDB]]></title>
- <link rel="alternate" type="text/html" href="http://localhost:4000/introducao-mongodb/" />
-  <id>http://localhost:4000/introducao-mongodb</id>
+ <link rel="alternate" type="text/html" href="http://malvesgo.github.io/introducao-mongodb/" />
+  <id>http://malvesgo.github.io/introducao-mongodb</id>
   <published>2015-11-03T07:38:24-02:00</published>
   <updated>2015-11-03T07:38:24-02:00</updated>
   <author>
     <name>Marcelo Alves</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://malvesgo.github.io</uri>
     <email>marceloalves_ac@hotmail.com</email>
   </author>
   <content type="html">
@@ -418,7 +418,7 @@ www.nome-usuario.github.io
 
 &lt;p&gt;Bom acho que era isso, espero que tenha conseguido passar um pouco do meu conhecimento para vocês. Caso ainda tenha dúvidas, poderá consultara documentação do MongoDB .&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/introducao-mongodb/&quot;&gt;Introdução ao MongoDB&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://localhost:4000&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://malvesgo.github.io/introducao-mongodb/&quot;&gt;Introdução ao MongoDB&lt;/a&gt; was originally published by Marcelo Alves at &lt;a href=&quot;http://malvesgo.github.io&quot;&gt;MalvesGO&lt;/a&gt; on November 03, 2015.&lt;/p&gt;
   </content>
 </entry>
 

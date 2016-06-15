@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:4000/minha-porta-envia-email/</loc>
+    <loc>http://malvesgo.github.io/minha-porta-envia-email/</loc>
     <lastmod>2015-11-03T17:38:24-02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/criando-blog-com-jekyll/</loc>
+    <loc>http://malvesgo.github.io/criando-blog-com-jekyll/</loc>
     <lastmod>2015-11-03T10:00:00-02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/introducao-mongodb/</loc>
+    <loc>http://malvesgo.github.io/introducao-mongodb/</loc>
     <lastmod>2015-11-03T07:38:24-02:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:4000/404.html</loc>
+    <loc>http://malvesgo.github.io/404.html</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>http://malvesgo.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/tags/</loc>
+    <loc>http://malvesgo.github.io/tags/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/posts/</loc>
+    <loc>http://malvesgo.github.io/posts/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>http://malvesgo.github.io/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/about/</loc>
+    <loc>http://malvesgo.github.io/about/</loc>
   </url>
   <url>
-    <loc>http://localhost:4000/assets/js/directivas/html/dirPagination.tpl.html</loc>
-    <lastmod>2015-12-05T16:05:06-02:00</lastmod>
+    <loc>http://malvesgo.github.io/assets/js/directivas/html/dirPagination.tpl.html</loc>
+    <lastmod>2016-06-15T13:18:52-03:00</lastmod>
   </url>
 </urlset>
