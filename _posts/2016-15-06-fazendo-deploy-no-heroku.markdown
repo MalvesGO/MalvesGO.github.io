@@ -38,9 +38,9 @@ Agora vamos criar o nosso app, não vou criar nada muito complexo aqui, somente 
 
 Duas coisas que você deve se atentar é:
 
-    * – Obrigatório o arquivo package.json, onde eu listo a engine que será utilizada, dependências, esse tipo de coisa.
+    * Obrigatório o arquivo package.json, onde eu listo a engine que será utilizada, dependências, esse tipo de coisa.
 
-    * – Arquivo Procfile, é ele que vai indicar o processo que deve rodar, sem ele não funciona.
+    * Arquivo Procfile, é ele que vai indicar o processo que deve rodar, sem ele não funciona.
 
 
 
