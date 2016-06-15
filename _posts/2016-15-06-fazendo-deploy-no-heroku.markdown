@@ -26,7 +26,7 @@ Como sou adepto do software livre estou escrevendo esse tutorial utilizando o Ub
 
 Para saber se o Heroku está funcionando Ok, abra um terminal e digite:
 
-{% highlight javascript %}
+{% highlight html %}
 heroku –version
 {% endhighlight %}
 
