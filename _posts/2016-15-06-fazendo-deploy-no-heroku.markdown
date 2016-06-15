@@ -9,7 +9,7 @@ image:
   feature: heroku.png
 ---
 
-Como fazer deploy de Apps para o Heroku, para testar suas apps
+Como fazer deploy de Apps para o Heroku
 
 Heroku é uma plataforma de serviço em nuvem (PaaS) suportando várias linguagens de programação. Heroku é de propriedade da Salesforce.com . Heroku, uma das primeiras plataformas de nuvem , já está em desenvolvimento desde junho de 2007, quando suportava apenas a linguagem de programação Ruby , mas, desde então, adicionou suporte para Java , Node.js , Scala , Clojure e Python e PHP. O sistema operacional de base é Debian ou, no mais recente, o Debian-based Ubuntu.
 
@@ -30,8 +30,17 @@ Para saber se o Heroku está funcionando Ok, abra um terminal e digite:
 heroku –version
 {% endhighlight %}
 
+O console nos exibirá uma mensagem
+
 <img src="/images/heroku/heroku-version.png" class="img-responsive center-block">
 
+Agora vamos criar o nosso app, não vou criar nada muito complexo aqui, somente um exemplo de leitura de HTML estático com o Node.js. Para agilizar o processo, coloquei o código no github, vá até o projeto e clone o mesmo para o seu PC.
+
+Duas coisas que você deve se atentar é:
+
+    1 – Obrigatório o arquivo package.json, onde eu listo a engine que será utilizada, dependências, esse tipo de coisa.
+
+    2 – Arquivo Procfile, é ele que vai indicar o processo que deve rodar, sem ele não funciona.
 
 
 
