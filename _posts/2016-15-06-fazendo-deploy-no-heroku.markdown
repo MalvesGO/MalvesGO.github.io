@@ -9,7 +9,7 @@ image:
   feature: heroku.png
 ---
 
-Como fazer deploy de Apps para o Heroku
+Como fazer deploy de Apps para o Heroku, para testar suas apps
 
 Post traduzido e adaptado do blog: [Christian Haschek](https://blog.haschek.at/post/fb64fa)
 
