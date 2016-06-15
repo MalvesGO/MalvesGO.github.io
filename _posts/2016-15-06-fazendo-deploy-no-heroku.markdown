@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Testando sua aplicação no Heroku
-date: 2015-11-03 19:38:24
+date: 2016-06-15 19:38:24
 tags: [heroku]
 description: Teste simples de app sendo testada no Heroku.
 tags: [heroku, nodejs]
 image:
-  feature: raspberry.jpg
+  feature: heroku.png
 ---
 
 Hoje iremos aprender a testar nossas apps no Heroku
