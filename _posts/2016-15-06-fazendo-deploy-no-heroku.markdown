@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Testando sua aplicação no Heroku
+title: Como fazer deploy de Apps para o Heroku
 date: 2016-06-15 19:38:24
 tags: [heroku]
-description: Teste simples de app sendo testada no Heroku.
+description: Como fazer deploy de Apps para o Heroku.
 tags: [heroku, nodejs]
 image:
   feature: heroku.png
 ---
 
-Hoje iremos aprender a testar nossas apps no Heroku
+Como fazer deploy de Apps para o Heroku
 
 Post traduzido e adaptado do blog: [Christian Haschek](https://blog.haschek.at/post/fb64fa)
 
