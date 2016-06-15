@@ -30,6 +30,8 @@ Para saber se o Heroku está funcionando Ok, abra um terminal e digite:
 heroku –version
 {% endhighlight %}
 
+<img class="center-block" src="images/heroku/heroku-version.png">
+
 
 
 
