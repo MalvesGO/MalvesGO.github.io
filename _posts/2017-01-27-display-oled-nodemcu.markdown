@@ -5,7 +5,7 @@ date: 2017-01-27 09:38:24
 tags: [mongodb]
 description: "MongoDB é um banco orientado a documentos open-source que permite alta performance, alta disponibilidade e escalabilidade automática. - 10gen."
 image:
-  feature: mongodb.png
+  feature: nodemcu.jpg
 ---
 
 Recentemente tive a oportunidade de conhecer e utilizar o Mongodb em um projeto pessoal de Internet das Coisas, e isso me motivou a relacionar os principais comandos básicos do Mongodb, tendo como principal finalidade ajudar quem está iniciando com esse novo banco de dados NoSQL.
