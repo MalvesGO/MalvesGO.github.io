@@ -8,9 +8,9 @@ image:
   feature: nodemcu.jpg
 ---
 
-Recentemente tive a oportunidade de conhecer e utilizar o Mongodb em um projeto pessoal de Internet das Coisas, e isso me motivou a relacionar os principais comandos básicos do Mongodb, tendo como principal finalidade ajudar quem está iniciando com esse novo banco de dados NoSQL.
+Neste artigo, iremos aprender como utilizar o Display OLED I2C com o nosso amiguinho NodeMcu da família ESP. Você pode utilizar com outros modelos do ESP8266.
 
-#Instalação do MongoDB
+#Instalação das bibliotecas
 
 A documentação do MongoDB é bem completa e detalhada, sendo assim, vamos listar abaixo alguns links diretos para você conseguir instalar em seu computador.
 
