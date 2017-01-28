@@ -10,8 +10,11 @@ image:
 
 Neste artigo, iremos aprender como utilizar o Display OLED I2C com o nosso amiguinho NodeMcu da família ESP. Você pode utilizar com outros modelos do ESP8266.
 
+Muito legal para utilizar em projetos que você deseja monitorar a temperatura por exemplo ou qualquer dados que tenha interesse em exibir.
+
 #Instalação das bibliotecas
 
+<!--
 A documentação do MongoDB é bem completa e detalhada, sendo assim, vamos listar abaixo alguns links diretos para você conseguir instalar em seu computador.
 
 [Instalando MongoDB no Windows](https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/)
@@ -231,4 +234,6 @@ db.pessoas.find( { nome : { $in :[ "Marcelo" , "Alves" ] } } )
 {% endhighlight %}
 
 
-Bom acho que era isso, espero que tenha conseguido passar um pouco do meu conhecimento para vocês. Caso ainda tenha dúvidas, poderá consultara documentação do MongoDB .
+Bom acho que era isso, espero que tenha conseguido passar um pouco do meu conhecimento para vocês. Caso ainda tenha dúvidas, poderá consultara documentação do MongoDB.
+
+-->
