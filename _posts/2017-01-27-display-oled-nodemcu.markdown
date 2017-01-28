@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conectado display Oled com Nodemcu
+title: Conectando display Oled com Nodemcu
 date: 2017-01-27 09:38:24
 tags: [mongodb]
 description: "MongoDB é um banco orientado a documentos open-source que permite alta performance, alta disponibilidade e escalabilidade automática. - 10gen."
